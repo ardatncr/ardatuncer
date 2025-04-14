@@ -5,6 +5,7 @@
 
 - I am currently interested in new developing knowledge and goals. I want to learn new programming languages like C++ , C# and a few things like these.
 
+- **Also these are my social media accounts :** 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arda-tuncer-283507331/) 
 
