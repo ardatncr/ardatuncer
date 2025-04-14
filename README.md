@@ -3,7 +3,7 @@
 -> **Hello, I am Arda Tuncer and  ı am studying at Ankara Science University since 2023. My department is Management Information Systems. I am still learning new things and knowledges to develop myself.**
 
 
-- I am currently interested in new developing knowledge and goals. I want to learn new programming languages like C++ , C# and a few things like these.
+- **I am currently interested in new developing knowledge and goals. I want to learn new programming languages like C++ , C# and a few things like these.**
 
 - **Also these are my social media accounts :** 
 
